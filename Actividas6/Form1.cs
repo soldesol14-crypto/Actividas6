@@ -27,5 +27,10 @@ namespace Actividas6
             label1.Text = textBox1.Text; label1.Text ="Hola" + label1.Text;
             textBox1.Text = "";
         }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
